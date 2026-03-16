@@ -1,6 +1,6 @@
-# Hi, I'm Doris Ying-Ying Cheng 👋
+## Hi, I'm Doris Ying-Ying Cheng 👋
 
-### [🌐 Portfolio](https://dorischeng.vercel.app) | [💼 LinkedIn](https://linkedin.com/in/yingying-cheng)
+## [🌐 Portfolio](https://dorischeng.vercel.app) | [💼 LinkedIn](https://linkedin.com/in/yingying-cheng)
 
 Full-stack Developer specializing in multimodal AI and 3D web environments. Currently a Software Engineer Intern at **PartyMonster Games**, building real-time systems for top-ranked Fire TV apps.
 
