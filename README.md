@@ -24,6 +24,6 @@ I'm a full-stack developer with a love for multimodal AI and 3D on the web. Righ
 
 ---
 
-Feel free to check out my work or reach out — I'd love to connect!
+Feel free to check out my work or reach out 🩶 I'd love to connect!
 
 [🌐 Portfolio](https://dorischeng.vercel.app) | [💼 LinkedIn](https://linkedin.com/in/yingying-cheng) | [🐙 GitHub](https://github.com/Yingyingcheng)
