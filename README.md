@@ -1,4 +1,4 @@
-### Hi, I'm Doris Ying-Ying Cheng 👋
+### Hi, I'm Doris Ying-Ying Cheng  🩷 🩶 🩵
 
 I'm a full-stack developer with a love for multimodal AI and 3D on the web. Right now, I'm interning as a Software Engineer at **PartyMonster Games**, where I build real-time systems for top-ranked Fire TV apps.
 
