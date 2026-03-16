@@ -19,7 +19,7 @@ Full-stack Developer specializing in multimodal AI and 3D web environments. Curr
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript/TypeScript, SQL
-**Frontend/3D:** React, Three.js (R3F)
-**Backend/Cloud:** Node.js, Express, Docker, Kubernetes, GCP
-**Data Science:** Pandas, NumPy, Scikit-learn
+- **Languages:** Python, JavaScript/TypeScript, SQL
+- **Frontend/3D:** React, Three.js (R3F)
+- **Backend/Cloud:** Node.js, Express, Docker, Kubernetes, GCP
+- **Data Science:** Pandas, NumPy, Scikit-learn
