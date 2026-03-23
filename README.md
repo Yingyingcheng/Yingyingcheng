@@ -8,7 +8,7 @@ I'm a full-stack developer with a love for multimodal AI and 3D on the web. Righ
 
 | Project                                                                       | Tech                         | Description                                                   |
 | ----------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------- |
-| 🍌 [**y2k-flying-bananas**](https://y2k-flying-bananas.vercel.app/)           | R3F, Three.js                | Share your day with the y2k-flying-banana chatbot.            |
+| 🍌 [**y2k-flying-bananas**](https://y2k-flying-bananas.vercel.app/)           | Next.js, R3F, Three.js       | Share your day with the y2k-flying-banana chatbot.            |
 | 🍳 [**Foodie Diary**](https://foodiediary.vercel.app/)                        | React, TypeScript            | Let AI calculate your meal's calories from your foodie diary. |
 | 🍧 [**MBTI Personality Test**](https://mbti-personality-test-one.vercel.app/) | React, Node.js, MySQL, JWT   | What's your MBTI?                                             |
 | 📺 [**AI Newsreader**](https://github.com/RutvikNK/ai_newsreader)             | Node.js, GCP, K8s, HeyGen AI | AI-presented news video, deployed on GKE.                     |
